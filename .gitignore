@@ -1,0 +1,17 @@
+# Java
+target/
+build/
+*.jar
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
